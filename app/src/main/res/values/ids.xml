@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <item name="test" type="id" />
+    <item name="testfrag" type="id" />
+    <item name="testfrag2" type="id" />
 </resources>
